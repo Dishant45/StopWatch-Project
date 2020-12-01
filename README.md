@@ -1,4 +1,5 @@
 # Stopwatch Project
+<img src='./images/logo2.png'>
 
 **Stopwatch** project is a project which contains a stopwatch with start stop and reset buttons.
 we have also added navigation with hamburger if width goes less than 767px than the icon will show or else we can see horizaontal navigation bar.
@@ -12,4 +13,4 @@ Content
 
 **Demo link**:https://dishant45.github.io/StopWatch-Project/index.html
 
-![Markdown Logo](https://markdown-here.com/images/logo2.png)
+<img src='./images/stopwatch.jpeg'>
