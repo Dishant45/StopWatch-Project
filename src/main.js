@@ -44,7 +44,7 @@ if(sec<10){
 
 const startstop=()=>{
     if(status=="stop"){
-        interval=window.setInterval(stopwatch,10);
+        interval=window.setInterval(stopwatch,1000);
         document.getElementById("startstop").innerHTML="STOP";
         status="start";
     }
